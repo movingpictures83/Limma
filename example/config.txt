@@ -1,0 +1,2 @@
+Prefix plugins/Limma/example/
+Plugin Limma inputfile regionmatrix.rds outputfile limma.csv
